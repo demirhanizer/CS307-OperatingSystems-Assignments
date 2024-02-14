@@ -1,0 +1,28 @@
+----------
+Command: grep
+Inputs: danger
+Options: 
+Redirection: <
+Background Job: n
+----------
+----------
+Command: ls
+Inputs: 
+Options: -a
+Redirection: -
+Background Job: n
+----------
+----------
+Command: wc
+Inputs: cli.c
+Options: 
+Redirection: >
+Background Job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background Job: n
+----------
