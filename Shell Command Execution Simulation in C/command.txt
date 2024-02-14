@@ -1,1 +1,0 @@
-man wget | grep -A 4 -w -e '-v'
